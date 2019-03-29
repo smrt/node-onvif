@@ -48,3 +48,5 @@ Temporary Items
 
 test
 node_modules
+yarn.lock
+.idea
