@@ -1,6 +1,9 @@
-node-onvif
+smrt/node-onvif
 ===============
+In this branch of node-onvif, the goal is to strip out the callback mechanic and implement missing methods from the original package. So far the video-related parts of service/media are finished.
 
+futomi/node-onvif
+===============
 The node-onvif is a Node.js module which allows you to communicate with the network camera which supports the ONVIF specifications.
 
 The [ONVIF](http://www.onvif.org/) (Open Network Video Interface) is an open industry forum promoting and developing global standards for interfaces of IP-based physical security products such as network cameras. The ONVIF specifications are available in [their web site](http://www.onvif.org/Documents/Specifications.aspx).
